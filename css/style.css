@@ -1,10 +1,7 @@
 a{
   text-decoration: none !important;
-  font-family: 'EB Garamond', serif;
-  font-size: 22px;
-}
-p{
-  font-family: 'EB Garamond', serif;
+  /* font-family: 'EB Garamond', serif;
+  font-size: 22px; */
 }
 .top{
   padding-top: 15%;
@@ -25,9 +22,12 @@ p{
 .sections{
     padding-bottom: 20px;
 }
-
 .links{
     color: #2A4B7C !important;
+}
+.inner-link{
+  color: #FFCD44 !important;
+  text-decoration: none !important;
 }
 
 .logo {
@@ -62,4 +62,5 @@ p{
 
 .custom-hdr{
   color: #011936;
+  font-family: 'EB Garamond', serif;
 }

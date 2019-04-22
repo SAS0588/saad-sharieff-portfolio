@@ -1,26 +1,26 @@
 <!DOCTYPE html>
 <html lang="en">
 
-  <head>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta charset="UTF-8">
-    <link type="text/css" rel="stylesheet" href="css/style.css">
-    <title>Saad Sharieff Portfolio</title>
-    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
-    <link href="https://fonts.googleapis.com/css?family=EB+Garamond:500" rel="stylesheet">
-  </head>
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta charset="UTF-8">
+  <title>Saad Sharieff Portfolio</title>
+  <link type="text/css" rel="stylesheet" href="css/style.css">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
+  <link href="https://fonts.googleapis.com/css?family=EB+Garamond:500" rel="stylesheet">
+</head>
 
-  <body>
-    <!-- start each class with either container (which has padding on left and right) or container-fluid (which has 0 padding on left and right)-->
-    <!--After creating the container, you must create rows that will host columns of lengths that equal 12.
+<body>
+  <!-- start each class with either container (which has padding on left and right) or container-fluid (which has 0 padding on left and right)-->
+  <!--After creating the container, you must create rows that will host columns of lengths that equal 12.
     also: sm = small display, md = medium display, lg = large display, xl = extra large display -->
-    <!--Nav Bar-->
-<div class="container navigation">
+  <!--Nav Bar-->
+  <div class="container navigation">
     <nav class="navbar navbar-expand-sm navbar-light bg-light fixed-top mr-auto">
-          <a class="navbar-brand" href="index.html">
-            <img class="img-fluid logo" src="images/logo_small.svg"> <!-- 153 x 48 -->
-          </a>
+      <a class="navbar-brand" href="index.html">
+        <img class="img-fluid logo" src="images/logo_small.svg"> <!-- size should equal 153h x 48w -->
+      </a>
       <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#collapsibleNavbar">
         <span class="navbar-toggler-icon"></span>
       </button>
@@ -30,81 +30,96 @@
             <a class="nav-link links" href="#about">About</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link links" href="#github">Github</a>
+            <a class="nav-link links" href="https://github.com/SAS0588" target="_blank">Github</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link links" href="data/test.pdf" target="_blank">Resum&eacute; </a>
           </li>
           <li class="nav-item">
             <a class="nav-link links" href="#email">Contact Me</a>
           </li>
         </ul>
-    </div>
+      </div>
     </nav>
   </div>
-    <div style="background:transparent !important" class="jumbotron jumbotron-fluid">
-      <div class="container">
-        <p class="text-center display-1 greeting greeting-yellow top"> Hello! </p>
-        <p class="text-center display-4 greeting greeting-blue bottom">My name is Saad. I am a JavaScript developer living in Saint Louis, MO.</p>
+  <div style="background:transparent !important" class="jumbotron jumbotron-fluid">
+    <div class="container">
+      <p class="text-center display-1 greeting greeting-yellow top"> Hello! </p>
+      <p class="text-center display-4 greeting greeting-blue bottom">My name is Saad. I am a JavaScript developer living
+        in Saint Louis, MO.</p>
+    </div>
+  </div>
+
+  <!--Main Content-->
+  <div class="container">
+    <!--ABOUT SECTION-->
+    <div class="row sections">
+      <div class="col-sm-12 display-4">
+        <p id="about" class="custom-hdr">About</p>
+      </div>
+      <div class="col-sm-12 text-dark text-break">
+        <p>I am currently working as an IT Support Analyst at Unigroup, which is where my passion for creating new
+          solutions and keeping customers happy converge. See <a class="inner-link"
+            href="https://www.linkedin.com/in/saad-sharieff-dev" target="_blank"><mark>my previous work history</mark></a>, or you can
+          download my <a class="inner-link" style="text-decoration:none color:#FFCD44 !important" href="data/test.pdf"
+            download="saadSharieffResume" target="_blank"><mark>resume.</mark></a></p>
+        <p>Outside of work, I live and relax in the Central West End of St. Louis, play soccer, and try out new
+          restaurants around the city. I am also a part time volunteer for Code for America, and lead a group of
+          like-minded junior developers who want to grow their technical skills. I am currently working on a few
+          projects that you can follow on my <a class="inner-link"
+            href="https://github.com/SAS0588" target="_blank"><mark>GitHub.</mark></a> Currently, I am not accepting freelance work,
+          but I'd love to get to know you over coffee, so feel free to reach out to me.</p>
       </div>
     </div>
-
-    <!--Main Content-->
-    <div class="container">
-      <!-- image @ 1240 x 421.766 -->
-      <!-- <div class="row sections">
-        <div class="col-sm-12 sections top">
-          <img class="img-fluid" src="images/main.png" alt="image">
+    <!--GITHUB SECTION-->
+<!--     <div class="row sections">
+      <div class="col-sm-12 display-4">
+        <p id="github" class="custom-hdr">Github</p>
+      </div>
+      <div class="col-sm-12 text-dark text-break">
+        <p>Viverra maecenas accumsan lacus vel facilisis volutpat est. In egestas erat imperdiet sed euismod.
+          Pellentesque eu tincidunt tortor aliquam nulla facilisi. Id velit ut tortor pretium. Egestas integer eget
+          aliquet nibh praesent. Scelerisque purus semper eget duis at tellus at. Pellentesque dignissim enim sit amet
+          venenatis urna cursus. Rutrum quisque non tellus orci ac. Semper quis lectus nulla at volutpat diam ut.
+          Ultricies tristique nulla aliquet enim tortor. Tellus integer feugiat scelerisque varius. Velit aliquet
+          sagittis id consectetur purus ut faucibus. Viverra suspendisse potenti nullam ac tortor vitae purus faucibus.
+          Eget duis at tellus at urna condimentum mattis. Viverra vitae congue eu consequat ac. Massa tempor nec feugiat
+          nisl pretium fusce.</p>
+      </div>
+    </div> -->
+    <hr>
+    <!--CONTACT ME SECTION-->
+    <div class="row sections">
+      <div class="col-sm-12 text-center display-4">
+        <p id="email" class="custom-hdr">Get In Touch</p>
+        <div class="row sections">
+          <div class="col-sm-12">
+            <a class="btn-custom-styling" href="mailto:saadsharieff@gmail.com">Email Me</a>
+            <hr>
+          </div>
         </div>
-      </div> -->
-      <!--ABOUT SECTION-->
-      <div class="row sections">
-          <div class="col-sm-12 display-4">
-            <p id="about" class="custom-hdr">About</p>
-          </div>
-          <div class="col-sm-12 font-weight-light text-dark text-break">
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Elit at imperdiet dui accumsan. Sit amet mattis vulputate enim. Aliquet bibendum enim facilisis gravida. Fermentum et sollicitudin ac orci phasellus egestas tellus rutrum tellus. Et pharetra pharetra massa massa ultricies mi quis hendrerit dolor. Augue interdum velit euismod in pellentesque massa. Risus viverra adipiscing at in tellus integer feugiat scelerisque. Id ornare arcu odio ut sem. Id interdum velit laoreet id. Eget lorem dolor sed viverra ipsum.
-          </div>
-      </div>
-      <!--GITHUB SECTION-->
-      <div class="row sections">
-          <div class="col-sm-12 display-4">
-            <p id="github" class="custom-hdr">Github</p>
-          </div>
-          <div class="col-sm-12 font-weight-light text-dark text-break">
-              Viverra maecenas accumsan lacus vel facilisis volutpat est. In egestas erat imperdiet sed euismod. Pellentesque eu tincidunt tortor aliquam nulla facilisi. Id velit ut tortor pretium. Egestas integer eget aliquet nibh praesent. Scelerisque purus semper eget duis at tellus at. Pellentesque dignissim enim sit amet venenatis urna cursus. Rutrum quisque non tellus orci ac. Semper quis lectus nulla at volutpat diam ut. Ultricies tristique nulla aliquet enim tortor. Tellus integer feugiat scelerisque varius. Velit aliquet sagittis id consectetur purus ut faucibus. Viverra suspendisse potenti nullam ac tortor vitae purus faucibus. Eget duis at tellus at urna condimentum mattis. Viverra vitae congue eu consequat ac. Massa tempor nec feugiat nisl pretium fusce.
-          </div>
-      </div>
-      <hr>
-      <!--CONTACT ME SECTION-->
-      <div class="row sections">
-          <div class="col-sm-12 text-center display-4">
-            <p id="email" class="custom-hdr">Get In Touch</p>
-            <div class="row sections">
-              <div class="col-sm-12">
-                <a class="btn-custom-styling" href="mailto:saadsharieff@gmail.com">Email Me</a>
-                <hr>
-              </div>
-            </div>
-          </div>
       </div>
     </div>
+  </div>
 
-    <!-- footer -->
-    <div class="container">
-      <div class="row">
-          <div class="col-sm-12 text-center">
-            <p>Copyright Saad Sharieff 2019<p>
-          </div>
+  <!-- footer -->
+  <div class="container">
+    <div class="row">
+      <div class="col-sm-12 text-center">
+        <p>Copyright Saad Sharieff 2019<p>
       </div>
     </div>
+  </div>
 
-    <!-- jQuery library -->
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+  <!-- jQuery library -->
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
 
-    <!-- Popper JS -->
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"></script>
+  <!-- Popper JS -->
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"></script>
 
-    <!-- Latest compiled JavaScript -->
-    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>
-    <script src="js/app.js"></script>
-  </body>
+  <!-- Latest compiled JavaScript -->
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>
+  <script src="js/app.js"></script>
+</body>
 
 </html>
