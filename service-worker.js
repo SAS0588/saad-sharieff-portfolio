@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/saad-sharieff-portfolio/precache-manifest.79488d8783fbc2fc0fa846bda432f4d1.js"
+  "/saad-sharieff-portfolio/precache-manifest.a6494ec5a9933be8ab134adc090fbac0.js"
 );
 
 self.addEventListener('message', (event) => {
