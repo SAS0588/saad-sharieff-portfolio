@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.ca7a82b9.chunk.css",
-    "main.js": "/portfolio/static/js/main.8c905aff.chunk.js",
-    "main.js.map": "/portfolio/static/js/main.8c905aff.chunk.js.map",
-    "runtime-main.js": "/portfolio/static/js/runtime-main.44087e9b.js",
-    "runtime-main.js.map": "/portfolio/static/js/runtime-main.44087e9b.js.map",
-    "static/css/2.47e06e2e.chunk.css": "/portfolio/static/css/2.47e06e2e.chunk.css",
-    "static/js/2.05c17f90.chunk.js": "/portfolio/static/js/2.05c17f90.chunk.js",
-    "static/js/2.05c17f90.chunk.js.map": "/portfolio/static/js/2.05c17f90.chunk.js.map",
-    "index.html": "/portfolio/index.html",
-    "precache-manifest.d45aa0f55dd5eb37cf7ab090394d81a3.js": "/portfolio/precache-manifest.d45aa0f55dd5eb37cf7ab090394d81a3.js",
-    "service-worker.js": "/portfolio/service-worker.js",
-    "static/css/2.47e06e2e.chunk.css.map": "/portfolio/static/css/2.47e06e2e.chunk.css.map",
-    "static/css/main.ca7a82b9.chunk.css.map": "/portfolio/static/css/main.ca7a82b9.chunk.css.map",
-    "static/js/2.05c17f90.chunk.js.LICENSE.txt": "/portfolio/static/js/2.05c17f90.chunk.js.LICENSE.txt",
-    "static/media/Resume.pdf": "/portfolio/static/media/Resume.dd915b48.pdf",
-    "static/media/logo_small.svg": "/portfolio/static/media/logo_small.1b646958.svg"
+    "main.css": "/saad-sharieff-portfolio/static/css/main.ca7a82b9.chunk.css",
+    "main.js": "/saad-sharieff-portfolio/static/js/main.1df4c544.chunk.js",
+    "main.js.map": "/saad-sharieff-portfolio/static/js/main.1df4c544.chunk.js.map",
+    "runtime-main.js": "/saad-sharieff-portfolio/static/js/runtime-main.b4bd5ea0.js",
+    "runtime-main.js.map": "/saad-sharieff-portfolio/static/js/runtime-main.b4bd5ea0.js.map",
+    "static/css/2.47e06e2e.chunk.css": "/saad-sharieff-portfolio/static/css/2.47e06e2e.chunk.css",
+    "static/js/2.05c17f90.chunk.js": "/saad-sharieff-portfolio/static/js/2.05c17f90.chunk.js",
+    "static/js/2.05c17f90.chunk.js.map": "/saad-sharieff-portfolio/static/js/2.05c17f90.chunk.js.map",
+    "index.html": "/saad-sharieff-portfolio/index.html",
+    "precache-manifest.628f4373f45940167407e827f18dd095.js": "/saad-sharieff-portfolio/precache-manifest.628f4373f45940167407e827f18dd095.js",
+    "service-worker.js": "/saad-sharieff-portfolio/service-worker.js",
+    "static/css/2.47e06e2e.chunk.css.map": "/saad-sharieff-portfolio/static/css/2.47e06e2e.chunk.css.map",
+    "static/css/main.ca7a82b9.chunk.css.map": "/saad-sharieff-portfolio/static/css/main.ca7a82b9.chunk.css.map",
+    "static/js/2.05c17f90.chunk.js.LICENSE.txt": "/saad-sharieff-portfolio/static/js/2.05c17f90.chunk.js.LICENSE.txt",
+    "static/media/Resume.pdf": "/saad-sharieff-portfolio/static/media/Resume.dd915b48.pdf",
+    "static/media/logo_small.svg": "/saad-sharieff-portfolio/static/media/logo_small.1b646958.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.44087e9b.js",
+    "static/js/runtime-main.b4bd5ea0.js",
     "static/css/2.47e06e2e.chunk.css",
     "static/js/2.05c17f90.chunk.js",
     "static/css/main.ca7a82b9.chunk.css",
-    "static/js/main.8c905aff.chunk.js"
+    "static/js/main.1df4c544.chunk.js"
   ]
 }
