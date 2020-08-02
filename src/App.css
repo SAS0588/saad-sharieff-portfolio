@@ -68,3 +68,19 @@ a{
 .transparency{
   background: transparent !important;
 }
+
+.greetingBanner{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  height: 50vh;
+}
+
+.card{
+  width: 500px;
+  margin: 30px;
+}
+
+.card-img-top{
+  height: 250px;
+}
