@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/saad-sharieff-portfolio/static/css/main.ca7a82b9.chunk.css",
-    "main.js": "/saad-sharieff-portfolio/static/js/main.1df4c544.chunk.js",
-    "main.js.map": "/saad-sharieff-portfolio/static/js/main.1df4c544.chunk.js.map",
+    "main.css": "/saad-sharieff-portfolio/static/css/main.9c862076.chunk.css",
+    "main.js": "/saad-sharieff-portfolio/static/js/main.8c31702f.chunk.js",
+    "main.js.map": "/saad-sharieff-portfolio/static/js/main.8c31702f.chunk.js.map",
     "runtime-main.js": "/saad-sharieff-portfolio/static/js/runtime-main.b4bd5ea0.js",
     "runtime-main.js.map": "/saad-sharieff-portfolio/static/js/runtime-main.b4bd5ea0.js.map",
     "static/css/2.47e06e2e.chunk.css": "/saad-sharieff-portfolio/static/css/2.47e06e2e.chunk.css",
-    "static/js/2.05c17f90.chunk.js": "/saad-sharieff-portfolio/static/js/2.05c17f90.chunk.js",
-    "static/js/2.05c17f90.chunk.js.map": "/saad-sharieff-portfolio/static/js/2.05c17f90.chunk.js.map",
+    "static/js/2.efdfb68a.chunk.js": "/saad-sharieff-portfolio/static/js/2.efdfb68a.chunk.js",
+    "static/js/2.efdfb68a.chunk.js.map": "/saad-sharieff-portfolio/static/js/2.efdfb68a.chunk.js.map",
     "index.html": "/saad-sharieff-portfolio/index.html",
-    "precache-manifest.628f4373f45940167407e827f18dd095.js": "/saad-sharieff-portfolio/precache-manifest.628f4373f45940167407e827f18dd095.js",
+    "precache-manifest.4b4f9930b842babb0cc5ae8d362dce0f.js": "/saad-sharieff-portfolio/precache-manifest.4b4f9930b842babb0cc5ae8d362dce0f.js",
     "service-worker.js": "/saad-sharieff-portfolio/service-worker.js",
     "static/css/2.47e06e2e.chunk.css.map": "/saad-sharieff-portfolio/static/css/2.47e06e2e.chunk.css.map",
-    "static/css/main.ca7a82b9.chunk.css.map": "/saad-sharieff-portfolio/static/css/main.ca7a82b9.chunk.css.map",
-    "static/js/2.05c17f90.chunk.js.LICENSE.txt": "/saad-sharieff-portfolio/static/js/2.05c17f90.chunk.js.LICENSE.txt",
+    "static/css/main.9c862076.chunk.css.map": "/saad-sharieff-portfolio/static/css/main.9c862076.chunk.css.map",
+    "static/js/2.efdfb68a.chunk.js.LICENSE.txt": "/saad-sharieff-portfolio/static/js/2.efdfb68a.chunk.js.LICENSE.txt",
     "static/media/Resume.pdf": "/saad-sharieff-portfolio/static/media/Resume.dd915b48.pdf",
     "static/media/logo_small.svg": "/saad-sharieff-portfolio/static/media/logo_small.1b646958.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.b4bd5ea0.js",
     "static/css/2.47e06e2e.chunk.css",
-    "static/js/2.05c17f90.chunk.js",
-    "static/css/main.ca7a82b9.chunk.css",
-    "static/js/main.1df4c544.chunk.js"
+    "static/js/2.efdfb68a.chunk.js",
+    "static/css/main.9c862076.chunk.css",
+    "static/js/main.8c31702f.chunk.js"
   ]
 }
