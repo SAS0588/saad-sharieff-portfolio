@@ -1,8 +1,6 @@
 import React from "react";
 
-function ProjectSquare({ projectObject }) {
-  console.log(projectObject.projectName);
-  return (
+const ProjectSquare = ({ projectObject }) => (
     <div className="card">
       <img
         className="card-img-top"
@@ -17,7 +15,6 @@ function ProjectSquare({ projectObject }) {
         </a>
       </div>
     </div>
-  );
-}
+);
 
 export default ProjectSquare;

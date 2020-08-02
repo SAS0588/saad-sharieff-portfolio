@@ -49,10 +49,7 @@ function Project() {
               Projects
             </p>
           </div>
-          {projectObjectArray.map((e) => {
-            console.log(e);
-            return <ProjectSquare projectObject={e} />;
-          })}
+          {projectObjectArray.map((e) => <ProjectSquare projectObject={e} />)}
         </div>
         <hr />
       </div>
