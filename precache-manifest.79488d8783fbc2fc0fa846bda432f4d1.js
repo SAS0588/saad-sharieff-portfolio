@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "35655d4ccc73792861c07ce8c9a2f591",
+    "revision": "7353bfdf9166cf74e49bde1cc0e3a3f6",
     "url": "/saad-sharieff-portfolio/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/saad-sharieff-portfolio/static/css/2.47e06e2e.chunk.css"
   },
   {
-    "revision": "ebc733f9352d3a838401",
-    "url": "/saad-sharieff-portfolio/static/css/main.9c862076.chunk.css"
+    "revision": "69f5e1bc8ffdb1ae9792",
+    "url": "/saad-sharieff-portfolio/static/css/main.c711d989.chunk.css"
   },
   {
     "revision": "1efbc4abb4ef034f33b5",
@@ -20,7 +20,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/saad-sharieff-portfolio/static/js/2.efdfb68a.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "ebc733f9352d3a838401",
+    "revision": "69f5e1bc8ffdb1ae9792",
     "url": "/saad-sharieff-portfolio/static/js/main.8c31702f.chunk.js"
   },
   {
